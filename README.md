@@ -56,7 +56,7 @@ A vantagem aqui é a abstração de chamada de submétodos de subclasses que sã
 facilitar o uso por reduzir muito o número de chamadas aos mesmos recursos.
 
 
-####Alunos responsáveis:
+####Alunos responsáveis:  
 Arthur Enrique Teixeira de Souza - 125111361579  
 Elias Victor Silva Santana - 125111361348  
 Thiago Torres de Sousa - 125111369885  
